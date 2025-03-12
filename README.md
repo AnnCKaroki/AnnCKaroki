@@ -9,3 +9,5 @@
 - 📫 How to reach me: charitykaroki1@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am awake in my dreams.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnnCKaroki)](https://git.io/streak-stats)
