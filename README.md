@@ -10,4 +10,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am awake in my dreams.
 
-[![GitHub Streak](https://github-readme-streak-stats-eight-beige.vercel.app?user=AnnCKaroki&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight-beige.vercel.app?user=AnnCKaroki&theme=microsoft-dark)](https://git.io/streak-stats)
