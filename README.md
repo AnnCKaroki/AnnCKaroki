@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annckaroki&show_icons=true&locale=en" alt="annckaroki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annckaroki&" alt="annckaroki" /></p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/AnnCKaroki/svg/avgupta456/langs)](https://githubtrends.io)
